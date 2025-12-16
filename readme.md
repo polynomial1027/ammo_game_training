@@ -170,7 +170,7 @@ Mean for last 1000 episodes : ...
 ```
 
 Every `SHOW_EVERY` episodes, a pygame window will pop up to render **one full episode** using the current greedy policy.
-![Figure 1](figure_1.png)
+![Figure 1](Figure_1.png)
 
 ### C) Train the original grid version
 ```bash
