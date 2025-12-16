@@ -172,6 +172,8 @@ Mean for last 1000 episodes : ...
 Every `SHOW_EVERY` episodes, a pygame window will pop up to render **one full episode** using the current greedy policy.
 
 After the last episode you can get:
+
+
 ![Figure 1](Figure_1.png)
 
 ### C) Train the original grid version
