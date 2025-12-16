@@ -228,16 +228,5 @@ Natural extensions:
 
 ---
 
-## Reference
-
-This project is **inspired by and adapted from** the following repository:
-
-- https://github.com/atul-g/dodge_the_ammo
-
-The original project demonstrates a 1D bullet-dodging environment solved via Q-learning.  
-This repository extends the idea to a **2D bullet-hell setting with straight-line projectiles**, emphasizing environment dynamics and training stability.
-
----
-
 ## License
 
