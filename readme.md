@@ -40,7 +40,7 @@ ammo_game_training/
 ---
 
 ## Version 1: `original_version/` (Pixel / Grid)
-
+![Figure 1](Figure.png)
 ### What it is
 A compact **grid-world** bullet dodging environment:
 
