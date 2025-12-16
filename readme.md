@@ -65,7 +65,7 @@ Typical behavior:
 ---
 
 ## Version 2: `1024map/` (1024×1024 pygame, Continuous)
-
+![Figure 1](Figure_0.png)
 ### What it is
 A more game-like bullet-hell environment:
 
