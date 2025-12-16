@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Conda / venv
+.env
+.venv
+venv/
+conda-env/
+.conda/
+
+# VS Code
+.vscode/
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# Logs / outputs
+*.log
+*.gif
+*.mp4
+
+# Training artifacts (if added later)
+checkpoints/
+runs/
